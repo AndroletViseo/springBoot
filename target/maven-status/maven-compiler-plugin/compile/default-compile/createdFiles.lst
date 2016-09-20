@@ -1,0 +1,4 @@
+com\example\dao\TotoDao.class
+com\example\rest\Message.class
+com\example\domain\Toto.class
+com\example\Application.class
